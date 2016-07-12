@@ -1,0 +1,48 @@
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\bin\Debug\STICRGOSMS.exe
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\bin\Debug\STICRGOSMS.pdb
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.csprojResolveAssemblyReference.cache
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form1.resources
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form2.resources
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Properties.Resources.resources
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.csproj.GenerateResource.Cache
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.exe
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.pdb
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form3.resources
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form4.resources
+C:\Users\RowellChristian\Documents\Visual Studio 2010\Projects\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form5.resources
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.exe
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.pdb
+E:\STICRGOSMS\STICRGOSMS\bin\Debug\STICRGOSMS.exe
+E:\STICRGOSMS\STICRGOSMS\bin\Debug\STICRGOSMS.pdb
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.csprojResolveAssemblyReference.cache
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form1.resources
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form2.resources
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form3.resources
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form4.resources
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form5.resources
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Properties.Resources.resources
+E:\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.csproj.GenerateResource.Cache
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.exe
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.pdb
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\bin\Debug\STICRGOSMS.exe
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\bin\Debug\STICRGOSMS.pdb
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form1.resources
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form2.resources
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form3.resources
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form4.resources
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form5.resources
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Properties.Resources.resources
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.csproj.GenerateResource.Cache
+C:\Users\RowellChristian\Desktop\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.csprojResolveAssemblyReference.cache
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.exe
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.pdb
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\bin\Debug\STICRGOSMS.exe
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\bin\Debug\STICRGOSMS.pdb
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.csprojResolveAssemblyReference.cache
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form1.resources
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form2.resources
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form3.resources
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form4.resources
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Form5.resources
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.Properties.Resources.resources
+C:\Users\RowellChristian\Desktop\SadSign\STICRGOSMS\STICRGOSMS\obj\x86\Debug\STICRGOSMS.csproj.GenerateResource.Cache
